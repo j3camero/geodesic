@@ -1,0 +1,22 @@
+{
+  "name": "geodesic",
+  "version": "1.0.0",
+  "description": "Calculates 3D tesselations of the surface of a sphere using triangles.",
+  "main": "geodesic.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j3camero/geodesic.git"
+  },
+  "keywords": [
+    "geodesic"
+  ],
+  "author": "Jeff Cameron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j3camero/geodesic/issues"
+  },
+  "homepage": "https://github.com/j3camero/geodesic#readme"
+}
